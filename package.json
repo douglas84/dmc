@@ -1,0 +1,23 @@
+{
+  "name": "dmc",
+  "version": "1.0.0",
+  "description": "Timesheet Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "time",
+    "productivity"
+  ],
+  "author": "Kris Douglas",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ".git"
+  },
+  "dependencies": {
+    "node-core": "^1.0.6",
+    "update": "^0.7.4"
+  }
+}
